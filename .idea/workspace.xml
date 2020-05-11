@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="166ab7ef-7a23-4ecd-8d80-bf9826440cbe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZzPjlnPyVLpuU5uc1cIRQft3q2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\blogoop\admin" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="166ab7ef-7a23-4ecd-8d80-bf9826440cbe" name="Default Changelist" comment="" />
+      <created>1585839086874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585839086874</updated>
+      <workItem from="1585839088064" duration="561000" />
+      <workItem from="1585898494162" duration="15479000" />
+      <workItem from="1586154644614" duration="33000" />
+      <workItem from="1586154705165" duration="15919000" />
+      <workItem from="1586259545225" duration="4432000" />
+      <workItem from="1586267097284" duration="2395000" />
+      <workItem from="1586327213803" duration="13712000" />
+      <workItem from="1586415535668" duration="10586000" />
+      <workItem from="1586439183185" duration="48000" />
+      <workItem from="1586439441992" duration="2597000" />
+      <workItem from="1586500780038" duration="13337000" />
+      <workItem from="1586851559752" duration="10168000" />
+      <workItem from="1586930782496" duration="17015000" />
+      <workItem from="1587476688769" duration="3975000" />
+      <workItem from="1587631672195" duration="10463000" />
+      <workItem from="1587654203801" duration="3126000" />
+      <workItem from="1587720063674" duration="2670000" />
+      <workItem from="1587986285363" duration="600000" />
+      <workItem from="1588073073932" duration="599000" />
+      <workItem from="1588084101789" duration="15000" />
+      <workItem from="1588151439485" duration="13262000" />
+      <workItem from="1588258023345" duration="1201000" />
+      <workItem from="1588663471659" duration="4148000" />
+      <workItem from="1588687862308" duration="1221000" />
+      <workItem from="1588756208454" duration="10158000" />
+      <workItem from="1588832169544" duration="1626000" />
+      <workItem from="1588852665414" duration="508000" />
+      <workItem from="1588863542923" duration="972000" />
+      <workItem from="1589180832371" duration="89000" />
+      <workItem from="1589187148438" duration="1008000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="123" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586154668075">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="123" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824/1920.0.1920.1040/-1920.0.1920.1040@0.0.1536.824" timestamp="1586154668075" />
+    <state x="449" y="51" key="FileChooserDialogImpl" timestamp="1589203921572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="51" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040/-1920.0.1920.1040@0.0.1536.824" timestamp="1589203921572" />
+    <state x="2481" y="64" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1588831835162" />
+    <state width="1469" height="180" key="GridCell.Tab.0.bottom" timestamp="1588259224335">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1469" height="180" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040/-1920.0.1920.1040@0.0.1536.824" timestamp="1588259224335" />
+    <state width="1469" height="180" key="GridCell.Tab.0.center" timestamp="1588259224335">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1469" height="180" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040/-1920.0.1920.1040@0.0.1536.824" timestamp="1588259224335" />
+    <state width="1469" height="180" key="GridCell.Tab.0.left" timestamp="1588259224335">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1469" height="180" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040/-1920.0.1920.1040@0.0.1536.824" timestamp="1588259224335" />
+    <state width="1469" height="180" key="GridCell.Tab.0.right" timestamp="1588259224335">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1469" height="180" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040/-1920.0.1920.1040@0.0.1536.824" timestamp="1588259224335" />
+    <state x="488" y="143" key="NewPhpClassDialog" timestamp="1587720100665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="488" y="143" key="NewPhpClassDialog/0.0.1536.824/1920.0.1920.1040/-1920.0.1920.1040@0.0.1536.824" timestamp="1587720100665" />
+    <state x="537" y="304" key="NewPhpFileDialog" timestamp="1588160239854">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="537" y="304" key="NewPhpFileDialog/0.0.1536.824/1920.0.1920.1040/-1920.0.1920.1040@0.0.1536.824" timestamp="1588160239854" />
+    <state x="1920" y="0" key="SettingsEditor" timestamp="1588778068488">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040/-1920.0.1920.1040@0.0.1536.824" timestamp="1588768690491" />
+    <state x="1920" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1588778068488" />
+    <state x="2024" y="26" width="1141" height="790" maximized="true" key="dock-window-1" timestamp="1586253635374">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2024" y="26" width="1141" height="790" maximized="true" key="dock-window-1/0.0.1536.824/1920.0.1920.1040/-1920.0.1920.1040@0.0.1536.824" timestamp="1586253635374" />
+    <state x="261" y="-2" width="1009" height="1470" key="search.everywhere.popup" timestamp="1586858117148">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="-2" width="1009" height="1470" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040/-1920.0.1920.1040@0.0.1536.824" timestamp="1586858117148" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/admin/comments_photo.php</url>
+          <line>35</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
