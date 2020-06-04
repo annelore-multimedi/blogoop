@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="166ab7ef-7a23-4ecd-8d80-bf9826440cbe" name="Default Changelist" comment="" />
+    <list default="true" id="166ab7ef-7a23-4ecd-8d80-bf9826440cbe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/admin/includes/Paginate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/includes/init.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/includes/init.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/photo.php" beforeDir="false" afterPath="$PROJECT_DIR$/photo.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -33,10 +39,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZzPjlnPyVLpuU5uc1cIRQft3q2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -91,21 +100,27 @@
       <workItem from="1588863542923" duration="972000" />
       <workItem from="1589180832371" duration="89000" />
       <workItem from="1589187148438" duration="1008000" />
+      <workItem from="1589203787368" duration="661000" />
+      <workItem from="1589378536013" duration="4290000" />
+      <workItem from="1589437537745" duration="1505000" />
+      <workItem from="1589781857047" duration="17000" />
+      <workItem from="1589801388877" duration="672000" />
+      <workItem from="1591255914861" duration="567000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="123" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586154668075">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="449" y="123" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824/1920.0.1920.1040/-1920.0.1920.1040@0.0.1536.824" timestamp="1586154668075" />
-    <state x="449" y="51" key="FileChooserDialogImpl" timestamp="1589203921572">
+    <state x="449" y="51" key="FileChooserDialogImpl" timestamp="1589781872441">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="51" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040/-1920.0.1920.1040@0.0.1536.824" timestamp="1589203921572" />
+    <state x="449" y="51" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040/-1920.0.1920.1040@0.0.1536.824" timestamp="1589781872441" />
     <state x="2481" y="64" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1588831835162" />
     <state width="1469" height="180" key="GridCell.Tab.0.bottom" timestamp="1588259224335">
       <screen x="0" y="0" width="1536" height="824" />
@@ -123,10 +138,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1469" height="180" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040/-1920.0.1920.1040@0.0.1536.824" timestamp="1588259224335" />
-    <state x="488" y="143" key="NewPhpClassDialog" timestamp="1587720100665">
+    <state x="488" y="47" key="NewPhpClassDialog" timestamp="1589381988785">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="488" y="143" key="NewPhpClassDialog/0.0.1536.824/1920.0.1920.1040/-1920.0.1920.1040@0.0.1536.824" timestamp="1587720100665" />
+    <state x="488" y="47" key="NewPhpClassDialog/0.0.1536.824/1920.0.1920.1040/-1920.0.1920.1040@0.0.1536.824" timestamp="1589381988785" />
     <state x="537" y="304" key="NewPhpFileDialog" timestamp="1588160239854">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
